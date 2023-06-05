@@ -1,0 +1,15 @@
+import java.awt.*;
+
+public class Pentagon extends Polygon {
+    Color stroke_color;
+
+    public Pentagon (int [] x, int [] y, Color c) {
+        super(x,y,5);
+        stroke_color=c;
+    }
+    public void paint (Graphics g) {
+        g.setColor(stroke_color);
+        g.fillPolygon(xpoints, ypoints, 5);
+    }
+}
+

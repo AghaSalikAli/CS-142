@@ -1,0 +1,11 @@
+Undergraduate MarkSheet Fall 2022
+FirstName LastName Math English Physics Chemistry Biology ComputerScience
+Agha Salik 88 76 99 89 88 78
+Ahmad Murtaza 99 76 85 70 88 99
+Talal Khan 78 79 80 82 78 90
+Saima Abbasi 66 88 78 99 100 90
+Mahmood Azeemi 55 66 77 88 99 90
+Babar Azam 77 88 54 77 56 90
+Shakeel Khoja 99 90 95 99 100 90
+Waseem Arain 50 55 60 65 70 90
+Imran Rauf 90 80 88 78 56 90
